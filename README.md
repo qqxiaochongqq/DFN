@@ -1,5 +1,5 @@
 # DFN
-Deep Feedback Network for Recommendation
+Deep Feedback Network for Recommendation (IJCAI-2020)
 
 # Operating environment
 
