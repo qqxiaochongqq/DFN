@@ -1,6 +1,8 @@
 # DFN
 Deep Feedback Network for Recommendation (IJCAI-2020)
 
+https://www.ijcai.org/Proceedings/2020/349
+
 # Operating environment
 
 python 2.7.15 
@@ -14,4 +16,3 @@ run train_model.py
 If the codes help you, please cite the following paper:
 
 Ruobing Xie*, Cheng Ling*, Yalong Wang, Rui Wang, Feng Xia, Leyu Lin. Deep Feedback Network for Recommendation. IJCAI-2020 (* indicates equal contribution).
-https://www.ijcai.org/Proceedings/2020/349
